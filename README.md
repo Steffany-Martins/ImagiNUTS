@@ -1,6 +1,10 @@
 
 # ImagiNUTS
 
+<div style="text-align:center;">
+  <img src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-lKUKYknZDBTqZFwLIAr7Gqzq/user-EtFRPLqOufwxxUeZj3ucJjul/img-ptu7fUtTQVlOvO8RNIpLcRQN.png?st=2023-09-10T16%3A43%3A09Z&se=2023-09-10T18%3A43%3A09Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-09-09T21%3A36%3A18Z&ske=2023-09-10T21%3A36%3A18Z&sks=b&skv=2021-08-06&sig=pDHSO1cxhS12BkFTL0M0zZhGbi%2BmgNIDxSPGZCBn9Rs%3D" width="200" height="200" alt="ImagiNUTS Logo">
+</div>
+
 ImagiNUTS is a repository containing a client-side component for an OpenAI-based image generation project. Users can provide a prompt, and the system will generate images based on that prompt.
 
 ## Getting Started
