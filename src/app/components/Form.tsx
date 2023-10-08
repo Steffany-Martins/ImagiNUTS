@@ -6,6 +6,7 @@ import GenerateImageButton from "./GenerateImageButton.tsx";
 export default function Form({publicRuntimeConfig}:{publicRuntimeConfig: { apiKey: string | undefined }}) {
   const [textareaValue, setTextareaValue] = useState(""); // Initialize with an empty string
   const apiKey = (typeof publicRuntimeConfig !== 'undefined' && publicRuntimeConfig ? publicRuntimeConfig.apiKey : process.env.API_KEY);
+
   return (
     <form className="flex flex-col items-center justify-center">
     <textarea

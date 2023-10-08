@@ -11,7 +11,7 @@ const Modal = ({ imageUrl, onClose }:any) => {
         <button
           onClick={onClose}
           tabIndex={2}
-          className="absolute text-xl bottom-full right-2 text-gray-500 hover:text-gray-800"
+          className="absolute text-xl bottom-full right-2 text-white hover:text-2xl"
         >
           Close
         </button>

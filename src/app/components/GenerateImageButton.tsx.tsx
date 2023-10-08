@@ -96,7 +96,7 @@ export default function GenerateImageButton({ apiKey, inputValue }: GenerateImag
       </button>
 
       {displayMessage.loading ? (
-        <div className='mt-4'>
+        <div className='mt-4 text-white'>
           <h3>{typedText}</h3>
           <div className="lds-ripple">
             <div></div>

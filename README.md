@@ -7,6 +7,11 @@
 
 ImagiNUTS is a repository containing a client-side component for an OpenAI-based image generation project. Users can provide a prompt, and the system will generate images based on that prompt.
 
+
+## Preview Project Running
+
+[![Click to Watch the Video](https://cdn.loom.com/sessions/thumbnails/82be12d53a13479489795a74538f2b17-00001.jpg)](https://www.loom.com/share/82be12d53a13479489795a74538f2b17?sid=ab4ce8ff-b2f0-48b1-9dda-07c848ac180a)
+
 ## Getting Started
 
 To run this project, follow these steps:
