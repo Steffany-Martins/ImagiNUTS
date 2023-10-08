@@ -1,7 +1,7 @@
 
 # ImagiNUTS
 
-<div style="display:flex;justify-content:center;">
+<div align="center">
   <img src="https://techcrunch.com/wp-content/uploads/2022/05/imagen-shiba.jpeg" width="200" height="200" alt="ImagiNUTS Logo">
 </div>
 
